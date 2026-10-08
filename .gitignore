@@ -1,0 +1,6 @@
+# cloned upstream repos used for investigation - don't vendor these here
+vendor/
+*/vllm/
+__pycache__/
+*.pyc
+.DS_Store
